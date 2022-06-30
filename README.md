@@ -1,4 +1,4 @@
-# Recreational Drug Consumption and Personality Test Score
+# Recreational Drug Consumption
 
 Drug consumption dataset from [UCI Machine Learning Repositry](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29)
 The goal is to predict whether an individual would be a hard drug user.
